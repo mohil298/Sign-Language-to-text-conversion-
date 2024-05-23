@@ -51,5 +51,7 @@ cyhunspell
 
 Running the Project
 Run the application using Python to start the GUI for sign language to text conversion.
+
 bash
+
 python /path/to/the/Application.py
