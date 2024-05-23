@@ -19,6 +19,7 @@ CNN Architecture:
 Convolutional Layer: Learnable filters for feature detection.
 Pooling Layer: Reduces the size of activation matrices.
 Fully Connected Layer: Neurons connected to all inputs.
+
 4. GUI Creation
 Develop a Graphical User Interface (GUI) for converting signs to text, allowing users to communicate effectively with D&M individuals.
 
