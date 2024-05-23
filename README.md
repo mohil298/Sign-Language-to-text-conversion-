@@ -27,16 +27,26 @@ Develop a Graphical User Interface (GUI) for converting signs to text, allowing 
 Achieved 95.8% accuracy with the first algorithm layer and 98.0% with a combination of layers.
 
 Libraries Requirements
+
 Ensure Python 3.8 or above is installed.
 Latest pip
+
 numpy
+
 os-sys
+
 opencv-python
+
 tensorflow
+
 keras
+
 tk
+
 Pillow
+
 pyenchant
+
 cyhunspell
 
 Running the Project
